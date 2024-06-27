@@ -1,3 +1,3 @@
 module gitlab.com/username/mymath
 
-go 1.16
+go 1.19
